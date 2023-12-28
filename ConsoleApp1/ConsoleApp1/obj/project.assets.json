@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "NuGet.Frameworks/6.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NuGet.Frameworks.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NuGet.Frameworks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NuGet.Frameworks/6.8.0": {
+      "sha512": "cN9NyahKgYYScioH4CKn+TYj1eSODxd0RECFnQt6ZmzT6z7PfXlbYpVzbiPsxNgY23iNDMOVkSmOqNZyYxNlQA==",
+      "type": "package",
+      "path": "nuget.frameworks/6.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net472/NuGet.Frameworks.dll",
+        "lib/netstandard2.0/NuGet.Frameworks.dll",
+        "nuget.frameworks.6.8.0.nupkg.sha512",
+        "nuget.frameworks.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "NuGet.Frameworks >= 6.8.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SOURCE\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Programming\\Projects\\Uni\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "D:\\Programming\\Projects\\Uni\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\SOURCE\\.nuget\\packages\\",
+      "outputPath": "D:\\Programming\\Projects\\Uni\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\SOURCE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "NuGet.Frameworks": {
+            "target": "Package",
+            "version": "[6.8.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

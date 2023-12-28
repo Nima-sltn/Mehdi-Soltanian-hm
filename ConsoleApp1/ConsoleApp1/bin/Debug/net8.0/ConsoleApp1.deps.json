@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "NuGet.Frameworks": "6.8.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "NuGet.Frameworks/6.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/NuGet.Frameworks.dll": {
+            "assemblyVersion": "6.8.0.131",
+            "fileVersion": "6.8.0.131"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NuGet.Frameworks/6.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cN9NyahKgYYScioH4CKn+TYj1eSODxd0RECFnQt6ZmzT6z7PfXlbYpVzbiPsxNgY23iNDMOVkSmOqNZyYxNlQA==",
+      "path": "nuget.frameworks/6.8.0",
+      "hashPath": "nuget.frameworks.6.8.0.nupkg.sha512"
+    }
+  }
+}
