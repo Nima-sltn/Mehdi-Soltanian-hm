@@ -1,0 +1,14 @@
+D:\Programming\Projects\Uni\Products\Products\bin\Debug\Products.exe.config
+D:\Programming\Projects\Uni\Products\Products\bin\Debug\Products.exe
+D:\Programming\Projects\Uni\Products\Products\bin\Debug\Products.pdb
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.csproj.AssemblyReference.cache
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.Frm_Main.resources
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.Properties.Resources.resources
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.csproj.GenerateResource.cache
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.exe
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.pdb
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.Frm_AddProduct.resources
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.Frm_AddUser.resources
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.Frm_ShowProduct.resources
+D:\Programming\Projects\Uni\Products\Products\obj\Debug\Products.Frm_ShowUser.resources
